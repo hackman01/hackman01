@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with **3+ inte
 - 💼 **3 Professional Internships** as a Software Developer
 - 🔧 Specialized in **Full-Stack Development** with modern technologies
 - 📍 Based in **Mughal Sarai, Chandauli, UP, India**
-- 🎯 Currently working as **SDE Intern at Cobalt** (B2B iPaaS Platform)
 
 ### 💼 Professional Experience
 
@@ -58,13 +57,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with **3+ inte
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white)
 
+
 ### 🎯 Key Expertise
 
 - **🔐 Authentication Systems**: OAuth, API Key-based authentication
 - **🔗 API Development**: RESTful APIs, GraphQL integration
 - **🔄 Third-party Integrations**: GainsightPX, OpenAI, Razorpay, Google Calendar and etc.
 - **⚡ Performance Optimization**: Database schema optimization, caching strategies
-- **🏗️ Architecture Design**: Monolithic & microservices architectures
 - **📊 Real-time Systems**: WebSockets, event-driven architecture
 
 ### 🚀 Featured Projects
