@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with **3+ inte
 
 ### 💼 Professional Experience
 
-#### 🔹 SDE Intern @ Cobalt (Apr 2025 - Present)
+#### 🔹 SDE Intern @ Cobalt (Apr 2025 - July 2025)
 - Built **OAuth & API key authentication systems** with Node.js & TypeScript
 - Configured **dynamic webhooks** and event triggers using GraphQL & REST APIs
 - Developed **M2M communication features** for real-time data synchronization
